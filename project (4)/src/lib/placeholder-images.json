@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-portrait",
+      "description": "An ethereal portrait illustrating spiritual radiance and inner beauty.",
+      "imageUrl": "https://picsum.photos/seed/spiritual-radiance/1200/1600",
+      "imageHint": "ethereal portrait"
+    }
+  ]
+}
